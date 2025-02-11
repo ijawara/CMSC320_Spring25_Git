@@ -5,3 +5,8 @@ Q2: What field could data science be applied to? Give an Example.
 Answer: The financial field. Business intelligence analyst utilize data science
 analyze and predict market trends.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is bring together two different branches by history order, whereas rebasing is rewrites the history by putting changes from one branch at the beginning of another
+creating a more organized project history.
+
