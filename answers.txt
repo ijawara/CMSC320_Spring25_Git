@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give an Example.
+Answer: The financial field. Business intelligence analyst utilize data science
+analyze and predict market trends.
+
